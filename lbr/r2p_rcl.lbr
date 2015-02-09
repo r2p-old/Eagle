@@ -488,7 +488,7 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="C" uservalue="yes">
+<deviceset name="C" prefix="C" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="C" x="0" y="0"/>
 </gates>
@@ -531,7 +531,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="R" uservalue="yes">
+<deviceset name="R" prefix="R" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="R" x="0" y="0"/>
 </gates>
@@ -632,7 +632,7 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="L" uservalue="yes">
+<deviceset name="L" prefix="L" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="L" x="0" y="0"/>
 </gates>
